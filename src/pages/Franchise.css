@@ -1,0 +1,20 @@
+.b2{
+    size: 100%;
+    background-image: url("../assets/icecream.jpg");
+    background-size: cover;
+  background-position: center;
+}
+.b12{
+    background-color: rgb(221, 145, 192);
+}
+.Delic{
+    color:black;
+    text-align: center;
+    padding-top: 20px;
+    font-size: x-large;
+}
+.Delic2{
+    color: black;
+    font-size: larger;
+    text-align: center;
+}   

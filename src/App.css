@@ -1,0 +1,7 @@
+h1{
+  text-align: center;
+  background-color: aqua;
+  color: white !important ;
+  text-shadow: 2px 2px 2px gray;
+  padding: 10px;
+}
